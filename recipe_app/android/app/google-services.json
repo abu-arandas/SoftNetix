@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766479092387",
+    "project_id": "recipes-252f1",
+    "storage_bucket": "recipes-252f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766479092387:android:26895cf244160e632f0d16",
+        "android_client_info": {
+          "package_name": "com.arandas.recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-uLagoMVpAEygicRC_Mk6sa0vnpKzzhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
